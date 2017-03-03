@@ -1,0 +1,11 @@
+-----------
+1/29/2015
+
+1. The following methods need to be implemented:
+
+fill()
+dispense()
+currentlevel()
+
+2. Thing of some more structure.
+
